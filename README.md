@@ -226,9 +226,6 @@ product
         </div>
     </div>
 </div>
-<footer>
-    <center> Designed and Developed by Priyadharshini P (212223240128) </center>
-</footer>
 </body>
 </html>
 
